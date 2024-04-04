@@ -1,0 +1,20 @@
+{
+  "name": "week5b",
+  "version": "1.0.0",
+  "description": "week5b",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tailwindcss -i ./week5.css -o ./oladele/nolimit.css --watch"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "oladele akomolede",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
